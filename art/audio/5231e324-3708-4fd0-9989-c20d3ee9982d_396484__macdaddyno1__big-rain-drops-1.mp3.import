@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/5231e324-3708-4fd0-9989-c20d3ee9982d_396484__macdaddyno1__big-rain-drops-1.mp3-cf8db17a366d68d135d056f513e8dc80.mp3str"
+
+[deps]
+
+source_file="res://art/audio/5231e324-3708-4fd0-9989-c20d3ee9982d_396484__macdaddyno1__big-rain-drops-1.mp3"
+dest_files=[ "res://.import/5231e324-3708-4fd0-9989-c20d3ee9982d_396484__macdaddyno1__big-rain-drops-1.mp3-cf8db17a366d68d135d056f513e8dc80.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
