@@ -1,5 +1,8 @@
 # Snail Care
 
+[🎮 PLAY](https://tchapeaux.itch.io/snail-care)
+
+
 <img src="./icon.png" />
 
 A game made in the [Godot engine](https://godotengine.org/) for the [STOP WAITING FOR GODOT](https://itch.io/jam/stop-waiting-for-godot) jam.
